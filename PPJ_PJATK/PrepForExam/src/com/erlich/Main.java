@@ -6,7 +6,7 @@ public class Main {
 //        drawSquare(5);
 //        drawShape(5);
         drawPyramid(7);
-        System.out.println("hello");
+        System.out.println("Hello world");
     }
 
     static void drawSquare(int n) {
